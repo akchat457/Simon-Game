@@ -5,11 +5,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://my-team-page-2ac8c.web.app/">
+    <a href="https://simon-game-90099.web.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/akchat457/My-team-page">
+    <a href="https://github.com/akchat457/Simon-Game">
       Solution
     </a>
   </h3>
@@ -26,7 +26,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/akchat457/My-team-page/blob/main/Capture.PNG)
+![screenshot](https://github.com/akchat457/Simon-Game/blob/main/Capture.PNG)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
