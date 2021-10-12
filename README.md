@@ -1,6 +1,4 @@
 # Simon-Game
-Using Javascript and jQuery
-
 
 <h1 align="center">{Simon Game}</h1>
 
